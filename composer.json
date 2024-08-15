@@ -1,0 +1,19 @@
+{
+    "name": "komarov/test-composer-package",
+    "type": "library",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Komarov\\TestComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Komarov Sergey",
+            "email": "sk-2006@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
