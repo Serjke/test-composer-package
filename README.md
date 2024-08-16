@@ -8,5 +8,5 @@ composer require komarov/test-composer-package
 ```
 <?php
 $randStr = Str::random();
-echo $randStr'
+echo $randStr;
 ```
